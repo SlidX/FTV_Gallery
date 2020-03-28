@@ -259,7 +259,7 @@ h1{
   width: 150px;
   height: 100px;
   margin: 50px auto 0;
-  background-image: url("./logo.png");
+  background-image: url("../IMG/logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -275,11 +275,11 @@ h1{
 }
 
 .footer__mail{
-  list-style-image: url(email.png);
+  list-style-image: url('../IMG/email.png');
 }
 
 .footer__phone{
-  list-style-image: url(phone.png);
+  list-style-image: url('../IMG/phone.png');
 }
 
 .footer_a{
@@ -294,7 +294,7 @@ h1{
 .scrollTo__ball{
   width: 72px;
   height: 72px;
-  background-image: url('./arrow_top.png');
+  background-image: url('../IMG/arrow_top.png');
   background-size: cover; 
   position: fixed;
   bottom: 40px;
